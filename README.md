@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C# and Unity Engine**
 
-- 💬 Ask me about **Webdev. Maybe I can help ;D**
+- 💬 Ask me about **Webdev. maybe I can help ;D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

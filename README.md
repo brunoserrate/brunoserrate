@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoserrate&label=Profile%20views&color=0e75b6&style=flat-square" alt="brunoserrate" /> </p>
 
-- 🔭 I’m currently working on **gaming project**
+- 🔭 I’m currently working on **Webdev** again
 
-- 🌱 I’m currently learning **C# and Unity Engine**
+- 🌱 I’m currently learning **Godot**
 
-- 💬 Ask me about **Webdev. maybe I can help ;D**
+- 💬 Ask me about **Webdev or Unity**, maybe I can help ✌
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

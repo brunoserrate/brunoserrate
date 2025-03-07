@@ -7,3 +7,4 @@
 <img src="https://raw.githubusercontent.com/brunoserrate/brunoserrate/output/snake.svg" alt="Snake animation" />
 
 ###
+
